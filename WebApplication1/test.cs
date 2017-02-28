@@ -7,5 +7,6 @@ namespace WebApplication1
 {
     public class test
     {
+        public string pero { get; set; }
     }
 }
