@@ -8,5 +8,6 @@ namespace WebApplication1
     public class test
     {
         public string pero { get; set; }
+        public string juro { get; set; }
     }
 }
